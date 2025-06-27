@@ -1,2 +1,2 @@
 # ms-tienda
-microservicio prueb famisanar
+microservicio prueba famisanar
